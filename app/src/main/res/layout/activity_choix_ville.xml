@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChoixVille"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="193dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="123dp"
+            android:layout_marginTop="144dp"
+            android:layout_marginEnd="107dp"
+            android:text="@string/choisir_une_ville"
+            android:textColor="#F44336"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/bt_media"
+            android:layout_width="386dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="14dp"
+            android:layout_marginTop="52dp"
+            android:layout_marginEnd="11dp"
+            android:background="#C29890"
+            android:text="@string/mohammedia"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+        <Button
+            android:id="@+id/bt_rabat"
+            android:layout_width="386dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="14dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="11dp"
+            android:background="#C29890"
+            android:text="@string/rabat"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/bt_media" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>

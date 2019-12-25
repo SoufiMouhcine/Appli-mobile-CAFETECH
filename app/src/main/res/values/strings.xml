@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">CaféTech</string>
+    <string name="todo">TODO</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="not_registered">Not Registered ?</string>
+    <string name="login">Login</string>
+    <string name="confirm_password">Confirme Password</string>
+    <string name="already_registered">Already Registered ?</string>
+    <string name="todo2">TODO2</string>
+    <string name="textview">TextView</string>
+    <string name="welcome_mouchine">Welcome Mouchine</string>
+    <string name="choisir_une_ville">Choisir une Ville :</string>
+    <string name="mohammedia">Mohammedia</string>
+    <string name="rabat">RABAT</string>
+    <string name="mohammedia2">MOHAMMEDIA</string>
+    <string name="setting">Setting</string>
+    <string name="location">Location</string>
+    <string name="exit">Exit</string>
+    <string name="cafe_tech">CAFE TECH</string>
+    <string name="button">Button</string>
+    <string name="todo3">TODO</string>
+    <string name="rien" />
+    <string name="sugg_rez_une_ville">Suggérez une Ville</string>
+    <string name="sugg_rez_un_caf">Suggérez un Café</string>
+    <string name="about_us">About us</string>
+    <string name="name">Name</string>
+    <string name="search">Search</string>
+    <string name="commander_une_caf">Commander un Café</string>
+    <string name="adresse">ADRESSE</string>
+    <string name="numero_de_telephone">NUMERO DE TELEPHONE</string>
+    <string name="nos_cafe">NOS CAFE :</string>
+    <string name="espresso"> ESPRESSO</string>
+    <string name="prix_10_00_dh">PRIX : 10.00 DH</string>
+    <string name="prix_8_00_dh">PRIX : 08.00 DH</string>
+    <string name="espresso_con_panna">ESPRESSO CON PANNA</string>
+    <string name="espresso_macchiato">ESPRESSO MACCHIATO</string>
+    <string name="prix_20_00_dh">PRIX : 20.00 DH</string>
+    <string name="prix_30_00_dh">PRIX : 30.00 DH</string>
+    <string name="salted_caramel_mocha">SALTED CARAMEL MOCHA</string>
+    <string name="white_chocolate_mocha">WHITE CHOCOLATE MOCHA</string>
+    <string name="prix_33_00_dh">PRIX : 33.00 DH</string>
+    <string name="prix_35_00_dh">PRIX : 35.00 DH</string>
+    <string name="toasted_white_chocolate_mocha">TOASTED WHITE CHOCOLATE MOCHA</string>
+    <string name="cocoa_cloud_macchiato">COCOA CLOUD MACCHIATO</string>
+    <string name="peppermint_mocha">PEPPERMINT MOCHA</string>
+    <string name="prix_40_00_dh">PRIX : 40.00 DH</string>
+    <string name="caramel_brulee_latte">CARAMEL BRULEE LATTE</string>
+    <string name="eggnog_latte">EGGNOG LATTE</string>
+    <string name="commander">Commander</string>
+    <string name="caf_tech">CAFÉTECH</string>
+
+    <string-array name="cafeName">
+        <item>STARBUCKS COFFEE</item>
+        <item>FOURTEEN CAFE</item>
+        <item>BIG BAMBOO CAFE</item>
+        <item>OCOIN CAFE</item>
+
+
+    </string-array>
+
+
+</resources>
